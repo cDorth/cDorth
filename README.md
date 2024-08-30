@@ -34,8 +34,7 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/cDorth_/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div> 
  
-### Main skills:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp; 
+![Snake animation](https://github.com/cDorth/cDorth/blob/output/github-contribution-grid-snake.svg)
 
  
 ### Tools:
