@@ -19,14 +19,14 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff0000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Guilherme+Pereira;I'm+16+years+old;I+am+from+São+Paulo,+SP;I+study+analysis+and+systems+development+at+SENAI;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gprsilva&show_icons=true&count_private=true&hide_border=true&title_color=ff0000&icon_color=ff0000&text_color=ff0000&bg_color=0d1117" alt="Guilherme Pereira github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gprsilva&layout=compact&hide_border=true&title_color=ff0000&text_color=ff0000&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gprsilva&show_icons=true&count_private=true&hide_border=true&title_color=ff0000&icon_color=ff0000&text_color=ff0000&bg_color=0d1117" alt="Carlos Eduardo github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cDorth&layout=compact&hide_border=true&title_color=ff0000&text_color=ff0000&bg_color=0d1117" />
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cDorth_color=000000&color=ff5252&line=ff5252&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gprsilva&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=cDorth&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 <div align="center">  
